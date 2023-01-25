@@ -1,0 +1,24 @@
+:root {
+  --color-blue1: #273476;
+  --color-blue2: #12204c;
+  --color-green1: #00c485;
+  --color-green2: #0ac58a;
+  --color-white1: #fafbff; /* main bg */
+  --color-white2: #fbfbfb; /* second bg */
+  --color-white3: #f7f7f7; /* another bg */
+  --color-white4: #f4f6ff; /* another bg */
+  --color-purple1: #445391;
+  --color-purple2: #6878aa;
+  --color-purple3: #848ec1;
+  --color-gray1: #bfc6dd;
+  --color-gray2: #94a1c4;
+  --color-gray3: #e7eaf5;
+  --color-gray4: #d5d5d5;
+  --color-gray5: #a8a8a8;
+  --color-gray6: #707070;
+  --color-gray7: #535353;
+  --color-gray8: #e0e0e0;
+  --color-shadow1: #dfe2e6; /* for box-shadow */
+}
+
+/* Gilroy Light, Gilroy-Medium */
